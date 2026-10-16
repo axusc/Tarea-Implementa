@@ -1,0 +1,6 @@
+ARCHIVO HTML DE LA BASE DE DATOS:
+<DOCTYPE html>
+<h1>ERROR404</h1>
+<p>maceda rodelas david reinaldo</p>
+<p>hernandez ocana christopher de jesus</p>
+</html>
